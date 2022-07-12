@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FlightManager (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FlightManager (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
